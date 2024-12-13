@@ -1,4 +1,4 @@
-# **Project Overview: Audio Action Comic**
+# **Project Overview: SyntheticA Action Comic**
 
 ## **Project Name:** SyntheticA Action Comic Series  
 ### **License:** ARKTIK Hybrid License  
