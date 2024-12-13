@@ -1,6 +1,6 @@
 # **Welcome to the ARKTIK Global Ecosystem Public Repository**
 
-The ARKTIK Global Ecosystem is where innovation meets tradition, and technology serves humanity’s highest ideals. Designed for developers, educators, and mission-driven individuals, this public repository provides a collaborative hub for dynamic information, resources, and engagement opportunities. 
+The ARKTIK Global Ecosystem is where innovation meets tradition, and technology serves humanity’s highest ideals. Designed for developers, educators, conservative families, and mission-driven individuals, this public repository provides a collaborative hub for dynamic information, resources, and engagement opportunities.
 
 ---
 
@@ -108,7 +108,7 @@ Explore transformative solutions like:
 
 ## **License**
 
-This repository is made available under the [MIT License](https://opensource.org/licenses/MIT). Please review the license for terms of use.
+This repository and all ARKTIK resources are provided under the **ARKTIK Hybrid License**, which ensures ethical use, innovation, and collaboration while protecting proprietary developments. Please review the attached [LICENSE.md](./LICENSE.md) for full terms.
 
 ---
 
